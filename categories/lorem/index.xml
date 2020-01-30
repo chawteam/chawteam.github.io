@@ -5,7 +5,7 @@
     <link>https://chawteam.xyz/categories/lorem/</link>
     <description>Recent content in lorem on CHAWTeam</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-tw</language>
     
 	<atom:link href="https://chawteam.xyz/categories/lorem/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +17,8 @@
       
       <guid>https://chawteam.xyz/blog/1/01/01/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
+▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
   </channel>
